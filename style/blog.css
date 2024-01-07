@@ -1,0 +1,44 @@
+body{
+
+    background-image :url('../IMG-20231119-WA0009-removebg-preview.png');
+    background-repeat: no-repeat;font-style: oblique;
+}
+.text{text-align: center;
+    text-size-adjust: 100px;
+}
+
+.header{
+    height: 300px;
+    /* background-image: url('asif.jp'); */
+    /*background-image: url('../style/asif.jpg');
+    /* background-repeat: no-repeat; */ 
+    /* background-repeat: repeat-y; */
+    /* background-size: contain; */
+    /* background-size: cover; */
+    /*background-size: 390px;
+}
+
+
+h3{
+
+    font-size: 60px;
+    text-decoration: underline;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.blog{
+    margin: 20px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 10px blueviolet;
+}
+.second{
+/* display: none; */
+/* visibility: hidden; */
+
+
+}
+.incident{
+    border: 40 red;
+    display: block;
+}
+.dollar{
+    border: 2px solid peru;
+}
